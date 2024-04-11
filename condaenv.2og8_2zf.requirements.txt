@@ -1,0 +1,13 @@
+keras-core
+keras-tuner~=1.4.6
+tensorboard-plugin-profile~=2.14.0
+tensorboard~=2.14.1
+tensorflow-datasets~=4.9.3
+tensorflow-hub~=0.15.0
+tensorflow-serving-api~=2.14.0
+tensorflow~=2.14.0
+transformers~=4.35.0
+urlextract~=1.8.0
+gymnasium[classic_control,atari,accept-rom-license]
+google-cloud-aiplatform~=1.36.2
+google-cloud-storage~=2.13.0
